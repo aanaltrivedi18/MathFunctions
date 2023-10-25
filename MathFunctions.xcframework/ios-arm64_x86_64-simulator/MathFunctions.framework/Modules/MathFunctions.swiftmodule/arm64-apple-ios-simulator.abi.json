@@ -23,8 +23,8 @@
       },
       {
         "kind": "Import",
-        "name": "Reachability",
-        "printedName": "Reachability",
+        "name": "Logger",
+        "printedName": "Logger",
         "declKind": "Import",
         "moduleName": "MathFunctions"
       },
@@ -33,26 +33,6 @@
         "name": "MathFunctions",
         "printedName": "MathFunctions",
         "children": [
-          {
-            "kind": "Function",
-            "name": "checkReachability",
-            "printedName": "checkReachability()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:13MathFunctionsAAC17checkReachabilityyyF",
-            "mangledName": "$s13MathFunctionsAAC17checkReachabilityyyF",
-            "moduleName": "MathFunctions",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
           {
             "kind": "Function",
             "name": "greetUser",
@@ -182,6 +162,13 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "LogProtocol",
+            "printedName": "LogProtocol",
+            "usr": "s:6Logger11LogProtocolP",
+            "mangledName": "$s6Logger11LogProtocolP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -238,7 +225,14 @@
     {
       "filePath": "\/Users\/sapphire\/Documents\/FrameworkDistribution\/Cocoapods\/MathFunctions\/MathFunctions\/MathFunctions.swift",
       "kind": "StringLiteral",
-      "offset": 449,
+      "offset": 257,
+      "length": 14,
+      "value": "\"testing log \""
+    },
+    {
+      "filePath": "\/Users\/sapphire\/Documents\/FrameworkDistribution\/Cocoapods\/MathFunctions\/MathFunctions\/MathFunctions.swift",
+      "kind": "StringLiteral",
+      "offset": 351,
       "length": 7,
       "value": "\"aanal\""
     }

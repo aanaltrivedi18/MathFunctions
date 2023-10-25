@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GLsRyQbibyxX3E73VpfC9aZr2GQ=
+		rBvQtmKFyi+gH1tEmltkyC/yYgU=
 		</data>
 		<key>Modules/MathFunctions.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		JijOR5m3UqT/TlIMo09pdLoQBos=
+		0atiNdagEdSdfvQB5or+hH1ueCs=
 		</data>
 		<key>Modules/MathFunctions.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		xN7zSpKocwivgz6Jyf8uH0Zk/yo=
+		woXq4QcvMR1SLCgAFuT1jpFw3hQ=
 		</data>
 		<key>Modules/MathFunctions.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ieLOE8MZIzXVRWVkAAI98NkvthU=
+		KLbcW2XCtGKFoOPYgCMG3A9k7Kc=
 		</data>
 		<key>Modules/MathFunctions.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xN7zSpKocwivgz6Jyf8uH0Zk/yo=
+		woXq4QcvMR1SLCgAFuT1jpFw3hQ=
 		</data>
 		<key>Modules/MathFunctions.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OyYdj/ydQYdjRMo7Y8JyrE583R8=
+		dvjlJcOLYRQOKwCIl8KWjzorCqI=
 		</data>
 		<key>Modules/MathFunctions.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JijOR5m3UqT/TlIMo09pdLoQBos=
+		0atiNdagEdSdfvQB5or+hH1ueCs=
 		</data>
 		<key>Modules/MathFunctions.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		schCrC/aCvfY9C7Y2v7g9GYYVn0=
+		MYTsHSVDffJThV5/hiRKmmR9bAY=
 		</data>
 		<key>Modules/MathFunctions.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		wqBZi96t986e4u4Rn53alasojP0=
+		R8az4cWLNIHufRzTrx/Po+tC9ws=
 		</data>
 		<key>Modules/MathFunctions.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		schCrC/aCvfY9C7Y2v7g9GYYVn0=
+		MYTsHSVDffJThV5/hiRKmmR9bAY=
 		</data>
 		<key>Modules/MathFunctions.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yOXcGW7iMXraAXyzfSc3WbhGZAA=
+		02wEaBJD9LQOx/loiMw8RhcRBOI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,70 +81,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VIyKo402jzOz5DZh/UOwVuIRJln/XEd0Z6IKa+waRkA=
+			JQ1tMiyCis7aivZXiXEWwuSDRWs6h6EL/d9tmwAIqjc=
 			</data>
 		</dict>
 		<key>Modules/MathFunctions.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vuJqiDDEdT/quRTNQJPM4aqHBV4dDc1SM8w3NSnxMcs=
+			lrUmBjgveLzFSks2KoEfbG2dPrAdk3dhMeMUOwrvmRA=
 			</data>
 		</dict>
 		<key>Modules/MathFunctions.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JjEYtqIHMjilqs13eEK+qYlwpoIoE+kBIQ7XYpaOb10=
+			S35vIBdp8vsax7gW8ryCqyq7+NL4RwgANjPfycWEW9Q=
 			</data>
 		</dict>
 		<key>Modules/MathFunctions.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vuJqiDDEdT/quRTNQJPM4aqHBV4dDc1SM8w3NSnxMcs=
+			lrUmBjgveLzFSks2KoEfbG2dPrAdk3dhMeMUOwrvmRA=
 			</data>
 		</dict>
 		<key>Modules/MathFunctions.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o9pcUim0pYSN6f3JhiutVhjYJfZfULZpoVqaceii3k0=
+			Xbvn9v7dFOo+YfkxC+DbPsjEBDMFbLxpN50QXe+w4ds=
 			</data>
 		</dict>
 		<key>Modules/MathFunctions.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VIyKo402jzOz5DZh/UOwVuIRJln/XEd0Z6IKa+waRkA=
+			JQ1tMiyCis7aivZXiXEWwuSDRWs6h6EL/d9tmwAIqjc=
 			</data>
 		</dict>
 		<key>Modules/MathFunctions.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/HnFuomPog8/6gRazvJjtpx0GiijiCbHvUA6UiC1Haw=
+			b0bCRys2/b3KqOVoN3FQzymRMcRhVcD7J3qgZRWUHJU=
 			</data>
 		</dict>
 		<key>Modules/MathFunctions.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3wQJ7tazP9rrsMgDY5pIIdyZFtb+T+gFBIlwMPfkvNI=
+			hyknIYVauuinEaSdMYJ9TfVedpJqJLK7BXtVJ3JKVp8=
 			</data>
 		</dict>
 		<key>Modules/MathFunctions.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/HnFuomPog8/6gRazvJjtpx0GiijiCbHvUA6UiC1Haw=
+			b0bCRys2/b3KqOVoN3FQzymRMcRhVcD7J3qgZRWUHJU=
 			</data>
 		</dict>
 		<key>Modules/MathFunctions.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8cWD6TtKbl3que7oqhX3/VsvyHDUReqXG+sOaNI6sLo=
+			YlckoUIADgrm6uHm8NJ1biBB57cKB8lXNTgjVGpQvq0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
