@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'MathFunctions_Pod'
-  s.version      = '1.0.0'
+  s.version      = '1.1.0'
   s.summary      = 'Math functions'
   s.description  =  <<-DESC
 Math functions like sum and subtractions
